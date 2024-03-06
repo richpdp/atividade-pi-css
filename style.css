@@ -1,0 +1,31 @@
+    .primeiraDIV{
+        background-color: #000000;
+        width: 650px; 
+        height: 650px;  
+    }
+
+    .segundaDIV{
+        background-color: #ffffff; 
+        width: 300px; 
+        height: 300px;
+    }
+
+    .terceiraDIV{
+        color: #ff0000; 
+        background-color: #180564; 
+        font-size: 60px; 
+        text-align: center; 
+        font-style: italic;
+    }
+
+    .quartaDIV{
+        background-color: rgb(255, 179, 0); 
+        width: 250px;  
+        height: 250px;
+    }
+
+    .quintaDIV{
+        background-color: rgb(79, 0, 0); 
+        width: 130px; 
+        height: 100px;
+    }
